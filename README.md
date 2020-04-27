@@ -1,3 +1,2 @@
 # curso-angular-6
-# Coursera.org
-# owner: Joaquin E. Alvarez
+# para Coursera.org por Joaquin E. Alvarez
